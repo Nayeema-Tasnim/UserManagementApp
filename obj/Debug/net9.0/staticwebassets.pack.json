@@ -1,0 +1,725 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\UserManagementApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UserManagementApp.5jf4z3bk4j.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map.br",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js.gz"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map.br",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map.br"
+    },
+    {
+      "Id": "E:\\html\\itransition\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map.gz",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map.gz"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.UserManagementApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.UserManagementApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.UserManagementApp.props",
+      "PackagePath": "build\\UserManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.UserManagementApp.props",
+      "PackagePath": "buildMultiTargeting\\UserManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.UserManagementApp.props",
+      "PackagePath": "buildTransitive\\UserManagementApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

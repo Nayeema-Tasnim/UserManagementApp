@@ -1,0 +1,53 @@
+@model List<UserManagementApp.Models.User>
+
+<h1>User Management</h1>
+
+<form method="post">
+  <div class="toolbar mt-3">
+    <button formaction="/Admin/BlockUsers" class="btn btn-warning btn-sm me-2">
+        <i class="fa fa-ban"></i> Block
+    </button>
+    <button formaction="/Admin/UnblockUsers" class="btn btn-success btn-sm me-2">
+        <i class="fa fa-unlock"></i> Unblock
+    </button>
+    <button formaction="/Admin/DeleteUsers" class="btn btn-danger btn-sm me-2">
+        <i class="fa fa-trash"></i> Delete
+    </button>
+</div>
+<br><br>
+    <table class="table table-striped table-hover">
+        <thead>
+            
+            <tr>
+                <th><input type="checkbox" id="select-all" /></th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Last Seen</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model) {
+                <tr>
+                    <td><input type="checkbox" name="userIds" value="@user.UserId" /></td>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td>@user.LastLoginTime?.ToString("g") ?? "Never"</td>
+                    <td>@user.Status</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    
+</form>
+
+<script>
+  
+    document.getElementById("select-all").addEventListener("change", function () {
+        var checkboxes = document.querySelectorAll('input[name="userIds"]');
+        for (var checkbox of checkboxes) {
+            checkbox.checked = this.checked;
+        }
+    });
+</script>
