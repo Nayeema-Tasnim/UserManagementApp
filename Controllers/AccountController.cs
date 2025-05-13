@@ -17,7 +17,7 @@ namespace UserManagementApp.Controllers {
             _dbContext = dbContext;
         }
 
-        // GET: Login Page
+
         public IActionResult Login() {
             return View();
         }
@@ -39,21 +39,21 @@ user.LastLoginTime = DateTime.Now;
     _dbContext.Update(user);
     await _dbContext.SaveChangesAsync();
 
-// Set session variables for the logged-in user
+
             HttpContext.Session.SetString("UserEmail", user.Email);
             HttpContext.Session.SetString("UserName", user.Name);
             
-    // Create claims for the user
+
     var claims = new List<Claim> {
         new Claim(ClaimTypes.Name, user.Name),
         new Claim(ClaimTypes.Email, user.Email),
         new Claim("UserId", user.UserId.ToString())
     };
 
-    // Create claims identity
+
     var claimsIdentity = new ClaimsIdentity(claims, "CookieAuth");
 
-    // Sign in the user with the authentication cookie
+   
     await HttpContext.SignInAsync("CookieAuth", new ClaimsPrincipal(claimsIdentity));
 
     TempData["Message"] = $"Welcome back, {user.Name}!";
@@ -61,27 +61,27 @@ user.LastLoginTime = DateTime.Now;
 }
 
     
-        // GET: Register Page
+       
         public IActionResult Register() {
             return View();
         }
 
-        // POST: Register User
+     
         [HttpPost]
         public async Task<IActionResult> Register(string name, string email, string password) {
-            // Check if the email is already registered
+            
             var existingUser = await _dbContext.Users.FirstOrDefaultAsync(u => u.Email == email);
             if (existingUser != null) {
                 TempData["Error"] = "The email is already registered.Please use a different email";
                 return RedirectToAction("Register");
             }
 
-            // Create new user
+         
             var user = new User {
                 Name = name,
                 Email = email,
                 Password = password,
-                Status = "active", // Default status
+                Status = "active", 
                 RegistrationTime = DateTime.Now
             };
 
@@ -92,9 +92,9 @@ user.LastLoginTime = DateTime.Now;
             return RedirectToAction("Login");
         }
 
-        // GET: Logout User
+      
         public IActionResult Logout() {
-            HttpContext.Session.Clear(); // Clear all session data
+            HttpContext.Session.Clear(); 
             TempData["Message"] = "You have been logged out successfully.";
             return RedirectToAction("Login");
         }
