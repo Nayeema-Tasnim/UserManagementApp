@@ -11,14 +11,14 @@ namespace UserManagementApp.Controllers {
             _dbContext = dbContext;
         }
 
-        // Fetch users for the management table
+      
         [HttpGet]
         public async Task<IActionResult> Index() {
             var users = await _dbContext.Users.OrderBy(u => u.LastLoginTime).ToListAsync();
             return View(users);
         }
 
-        // Block selected users
+  
         [HttpPost]
         public async Task<IActionResult> BlockUsers(int[] userIds) {
             var users = await _dbContext.Users.Where(u => userIds.Contains(u.UserId)).ToListAsync();
@@ -30,7 +30,7 @@ namespace UserManagementApp.Controllers {
             return RedirectToAction("Index");
         }
 
-        // Unblock selected users
+        
         [HttpPost]
         public async Task<IActionResult> UnblockUsers(int[] userIds) {
             var users = await _dbContext.Users.Where(u => userIds.Contains(u.UserId)).ToListAsync();
@@ -42,7 +42,7 @@ namespace UserManagementApp.Controllers {
             return RedirectToAction("Index");
         }
 
-        // Delete selected users
+
         [HttpPost]
         public async Task<IActionResult> DeleteUsers(int[] userIds) {
             var users = await _dbContext.Users.Where(u => userIds.Contains(u.UserId)).ToListAsync();
